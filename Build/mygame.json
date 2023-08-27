@@ -1,0 +1,16 @@
+{
+"companyName": "demo",
+"productName": "记忆点点",
+"productVersion": "1.5",
+"dataUrl": "mygame.data.unityweb",
+"wasmCodeUrl": "mygame.wasm.code.unityweb",
+"wasmFrameworkUrl": "mygame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.25f1c1"
+}
